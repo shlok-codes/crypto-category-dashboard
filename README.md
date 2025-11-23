@@ -27,15 +27,16 @@ View the live dashboard here:\
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-  Component       Technology
-  --------------- ----------------
-  Data Source     CoinGecko API
-  Backend / ETL   Python, Pandas
-  Visualization   Tableau Public
-  Repository      GitHub
-  File Formats    CSV, TWBX, PNG
+| Component      | Technology |
+|----------------|------------|
+| Data Source    | CoinGecko API |
+| Backend / ETL  | Python, Pandas |
+| Visualization  | Tableau Public |
+| Repository     | GitHub |
+| File Formats   | CSV, TWBX, PNG |
+
 
 ------------------------------------------------------------------------
 
