@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Tableau temp files
+*.twbr
+*.hyper
+*.log
+.~*
+
+# macOS files
+.DS_Store
